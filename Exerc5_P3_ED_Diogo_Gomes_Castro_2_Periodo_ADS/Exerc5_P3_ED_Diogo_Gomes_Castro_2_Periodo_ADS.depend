@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1688587198 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\p3 - ed\exerc5_p3_ed_diogo_gomes_castro_2_periodo_ads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1688586880 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\p3 - ed\exerc5_p3_ed_diogo_gomes_castro_2_periodo_ads\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1688584582 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\p3 - ed\exerc5_p3_ed_diogo_gomes_castro_2_periodo_ads\fila.h
+

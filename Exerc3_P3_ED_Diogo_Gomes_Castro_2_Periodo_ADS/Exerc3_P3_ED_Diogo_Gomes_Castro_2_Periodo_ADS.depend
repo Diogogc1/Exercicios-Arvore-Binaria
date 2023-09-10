@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688568469 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\p3 - ed\exerc3_p3_ed_diogo_gomes_castro_2_periodo_ads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
